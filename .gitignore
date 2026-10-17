@@ -1,0 +1,6 @@
+# skill 运行时在目标目录内生成的工作区(防止仓库内测试时误提交)
+_organizer/
+_quarantine/
+
+# macOS
+.DS_Store
